@@ -1,0 +1,3 @@
+# Access lock files
+*.laccdb
+*.ldb
