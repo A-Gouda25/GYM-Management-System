@@ -44,8 +44,5 @@ Microsoft Access, SQL
 
 ## Team and my part
 
-Team project. My contribution: **[write here what you did, for example the forms, the queries, or the table design]**
+Team project.
 
-## Screenshots
-
-*(Add screenshots of the home form, a search form and a report in a `screenshots` folder.)*
